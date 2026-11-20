@@ -1,0 +1,785 @@
+{
+  "id": "week2",
+  "title": "Week 2 — Legal Rulings, Evidence & Wājib",
+  "subtitle": "Thawāb · Ḥanafī distinctions · Dalīl · Categories of wājib",
+  "description": "Explore the consequences of legal rulings, the Ḥanafī classification of obligations and prohibitions, degrees of certainty in legal evidence, and the classifications of wājib.",
+  "source": "Islamic Legal Theory I – Level One, CICFL, pp. 52–58.",
+  "questions": [
+    {
+      "q": "15. Complete the table: for each category, state what happens when the action is performed and when it is not performed. Are thawāb, ʿiqāb, and ʿitāb synonymous?",
+      "type": "table",
+      "rows": [
+        {
+          "label": "Wājib (obligatory)",
+          "answers": [
+            "Reward (thawāb)",
+            "Punishment (ʿiqāb)"
+          ],
+          "accepted": [
+            [
+              "reward",
+              "thawab",
+              "reward (thawab)",
+              "thawab reward"
+            ],
+            [
+              "punishment",
+              "iqab",
+              "punishment (iqab)",
+              "iqab punishment"
+            ]
+          ]
+        },
+        {
+          "label": "Mandūb (recommended)",
+          "answers": [
+            "Reward (thawāb)",
+            "Reprimand (ʿitāb), not punishment"
+          ],
+          "accepted": [
+            [
+              "reward",
+              "thawab",
+              "reward (thawab)"
+            ],
+            [
+              "reprimand",
+              "itab",
+              "reprimand (itab)",
+              "no punishment but reprimand"
+            ]
+          ]
+        },
+        {
+          "label": "Muḥarram (forbidden)",
+          "answers": [
+            "Punishment (ʿiqāb)",
+            "Reward (thawāb)"
+          ],
+          "accepted": [
+            [
+              "punishment",
+              "iqab",
+              "punishment (iqab)"
+            ],
+            [
+              "reward",
+              "thawab",
+              "reward (thawab)"
+            ]
+          ]
+        },
+        {
+          "label": "Makrūh (disliked)",
+          "answers": [
+            "Reprimand (ʿitāb), not punishment",
+            "Reward (thawāb)"
+          ],
+          "accepted": [
+            [
+              "reprimand",
+              "itab",
+              "reprimand (itab)",
+              "no punishment but reprimand"
+            ],
+            [
+              "reward",
+              "thawab",
+              "reward (thawab)"
+            ]
+          ]
+        },
+        {
+          "label": "Mubāḥ (permissible)",
+          "answers": [
+            "Neither reward, punishment, nor reprimand",
+            "Neither reward, punishment, nor reprimand"
+          ],
+          "accepted": [
+            [
+              "neither",
+              "none",
+              "no reward punishment or reprimand",
+              "no reward no punishment no reprimand"
+            ],
+            [
+              "neither",
+              "none",
+              "no reward punishment or reprimand",
+              "no reward no punishment no reprimand"
+            ]
+          ]
+        }
+      ],
+      "explanation": "The course distinguishes three consequences: thawāb (reward), ʿiqāb (punishment), and ʿitāb (reprimand). They are not synonyms. A wājib is rewarded when performed and its omission is punishable; a mandūb is rewarded when performed and its omission merits reprimand; a muḥarram is punishable when performed and its omission is rewarded; a makrūh merits reprimand when performed and reward when avoided; a mubāḥ entails none of these consequences whether performed or omitted.",
+      "pages": "pp. 52, 57"
+    },
+    {
+      "q": "16. According to the course, when does a person deserve ʿiqāb (punishment)?",
+      "type": "short_answer",
+      "answer": "When a person performs a muḥarram act or omits a wājib act.",
+      "acceptedAnswers": [
+        "when a person performs a muharram act or omits a wajib act",
+        "performing a forbidden act or failing to perform an obligatory act",
+        "when one does a forbidden act or leaves an obligatory act"
+      ],
+      "displayAnswer": "Performing a muḥarram act or omitting a wājib act.",
+      "explanation": "A forbidden act is punished when performed, while an obligatory act is punished when omitted.",
+      "pages": "p. 52"
+    },
+    {
+      "q": "17. According to the course, when does a person deserve ʿitāb (reprimand)?",
+      "type": "short_answer",
+      "answer": "When a person omits a mandūb act or performs a makrūh act.",
+      "acceptedAnswers": [
+        "when a person omits a mandub act or performs a makruh act",
+        "omitting a recommended act or doing a disliked act",
+        "when one leaves a recommended action or performs a disliked action"
+      ],
+      "displayAnswer": "Omitting a mandūb act or performing a makrūh act.",
+      "explanation": "The course distinguishes reprimand from punishment: omission of a mandūb and performance of a makrūh merit ʿitāb, not ʿiqāb.",
+      "pages": "p. 52"
+    },
+    {
+      "q": "18. According to the course, when does a person deserve thawāb (reward)?",
+      "type": "short_answer",
+      "answer": "By performing a wājib or mandūb act, or by refraining from a muḥarram or makrūh act.",
+      "acceptedAnswers": [
+        "by performing a wajib or mandub act or by refraining from a muharram or makruh act",
+        "performing obligatory or recommended acts and avoiding forbidden or disliked acts",
+        "when one does a wajib or mandub and leaves a muharram or makruh"
+      ],
+      "displayAnswer": "Performing a wājib or mandūb, or refraining from a muḥarram or makrūh.",
+      "explanation": "The course identifies reward for performing obligatory and recommended acts, and for avoiding forbidden and disliked acts. A mubāḥ action by itself entails no reward, punishment, or reprimand.",
+      "pages": "pp. 52, 57"
+    },
+    {
+      "q": "19. Are wājib and farḍ synonymous? Give the qualification made in the course.",
+      "type": "short_answer",
+      "answer": "Yes according to non-Ḥanafī jurists; Ḥanafīs distinguish them: wājib is established by a ẓannī indicator, while farḍ is established by a qaṭʿī indicator.",
+      "acceptedAnswers": [
+        "yes according to non hanafi jurists; hanafis distinguish them",
+        "they are synonymous according to the jumhur but not according to hanafis",
+        "yes for the jumhur; hanafis distinguish wajib as zanni and fard as qati"
+      ],
+      "displayAnswer": "They are synonymous according to non-Ḥanafī jurists. Ḥanafīs distinguish wājib (ẓannī evidence) from farḍ (qaṭʿī evidence).",
+      "explanation": "Both refer to mandatory acts whose performer deserves reward and whose non-performer deserves punishment. The difference is evidentiary in the Ḥanafī classification.",
+      "pages": "p. 53"
+    },
+    {
+      "q": "20. Are makrūh and makrūh tanzīhī synonymous? Explain the distinction in the course.",
+      "type": "short_answer",
+      "answer": "Not exactly in the Ḥanafī classification: makrūh is divided into makrūh tanzīhī and makrūh taḥrīmī. Makrūh tanzīhī is the disliked act that does not amount to a forbidden act.",
+      "acceptedAnswers": [
+        "no; hanafis divide makruh into makruh tanzihi and makruh tahrimi",
+        "not exactly; makruh is the broader category and makruh tanzihi is one subdivision",
+        "makruh tanzihi is a subcategory of makruh in the hanafi classification"
+      ],
+      "displayAnswer": "Not exactly: in the Ḥanafī classification, makrūh is the broader category, divided into makrūh tanzīhī and makrūh taḥrīmī.",
+      "explanation": "The course identifies makrūh tanzīhī as a disliked act not amounting to a forbidden act, and makrūh taḥrīmī as a disliked act amounting to a forbidden act. Avoid treating the broad category and one of its subdivisions as exact synonyms in the Ḥanafī taxonomy.",
+      "pages": "p. 53"
+    },
+    {
+      "q": "21. Are muḥarram and makrūh taḥrīmī synonymous? Explain the Ḥanafī distinction.",
+      "type": "short_answer",
+      "answer": "They are synonymous according to non-Ḥanafī jurists, but Ḥanafīs distinguish them: makrūh taḥrīmī is established by a ẓannī indicator, while muḥarram is established by a qaṭʿī indicator.",
+      "acceptedAnswers": [
+        "yes according to non hanafi jurists; hanafis distinguish them",
+        "they are synonymous according to the jumhur but hanafis distinguish them by zanni and qati evidence",
+        "yes for the jumhur; hanafis distinguish makruh tahrimi as zanni and muharram as qati"
+      ],
+      "displayAnswer": "They are synonymous according to non-Ḥanafī jurists. Ḥanafīs distinguish makrūh taḥrīmī (ẓannī evidence) from muḥarram (qaṭʿī evidence).",
+      "explanation": "Both describe forbidden acts whose performer deserves punishment and whose non-performer deserves reward. The Ḥanafī distinction concerns the strength/certainty of the indicator establishing the prohibition.",
+      "pages": "p. 53"
+    },
+    {
+      "q": "22.1. Provide an appropriate English equivalent for: ḥukm sharʿī",
+      "type": "short_answer",
+      "answer": "sacred law ruling",
+      "displayAnswer": "sacred law ruling",
+      "acceptedAnswers": [
+        "sacred law ruling",
+        "sharia ruling",
+        "islamic legal ruling"
+      ],
+      "explanation": "The course uses this English equivalent for ḥukm sharʿī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.2. Provide an appropriate English equivalent for: khiṭāb",
+      "type": "short_answer",
+      "answer": "address",
+      "displayAnswer": "address",
+      "acceptedAnswers": [
+        "address",
+        "divine address"
+      ],
+      "explanation": "The course uses this English equivalent for khiṭāb.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.3. Provide an appropriate English equivalent for: fiʿl",
+      "type": "short_answer",
+      "answer": "action",
+      "displayAnswer": "action",
+      "acceptedAnswers": [
+        "action",
+        "act"
+      ],
+      "explanation": "The course uses this English equivalent for fiʿl.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.4. Provide an appropriate English equivalent for: mukallaf",
+      "type": "short_answer",
+      "answer": "assignee / responsible being",
+      "displayAnswer": "assignee / responsible being",
+      "acceptedAnswers": [
+        "assignee",
+        "responsible being",
+        "legally responsible person",
+        "one who is sane and pubescent and whom the message reached"
+      ],
+      "explanation": "The course uses this English equivalent for mukallaf.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.5. Provide an appropriate English equivalent for: taklīf",
+      "type": "short_answer",
+      "answer": "assignment",
+      "displayAnswer": "assignment",
+      "acceptedAnswers": [
+        "assignment",
+        "legal assignment"
+      ],
+      "explanation": "The course uses this English equivalent for taklīf.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.6. Provide an appropriate English equivalent for: ḥukm taklīfī",
+      "type": "short_answer",
+      "answer": "assignment-based ruling",
+      "displayAnswer": "assignment-based ruling",
+      "acceptedAnswers": [
+        "assignment-based ruling",
+        "prescriptive ruling"
+      ],
+      "explanation": "The course uses this English equivalent for ḥukm taklīfī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.7. Provide an appropriate English equivalent for: ḥukm waḍʿī",
+      "type": "short_answer",
+      "answer": "association-based ruling",
+      "displayAnswer": "association-based ruling",
+      "acceptedAnswers": [
+        "association-based ruling",
+        "declaratory ruling"
+      ],
+      "explanation": "The course uses this English equivalent for ḥukm waḍʿī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.8. Provide an appropriate English equivalent for: iqtiḍāʾ",
+      "type": "short_answer",
+      "answer": "requiring",
+      "displayAnswer": "requiring",
+      "acceptedAnswers": [
+        "requiring",
+        "request"
+      ],
+      "explanation": "The course uses this English equivalent for iqtiḍāʾ.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.9. Provide an appropriate English equivalent for: takhyīr",
+      "type": "short_answer",
+      "answer": "giving choice",
+      "displayAnswer": "giving choice",
+      "acceptedAnswers": [
+        "giving choice",
+        "choice"
+      ],
+      "explanation": "The course uses this English equivalent for takhyīr.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.10. Provide an appropriate English equivalent for: ʿafw",
+      "type": "short_answer",
+      "answer": "pardon / pardoning",
+      "displayAnswer": "pardon / pardoning",
+      "acceptedAnswers": [
+        "pardon",
+        "pardoning"
+      ],
+      "explanation": "The course uses this English equivalent for ʿafw.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.11. Provide an appropriate English equivalent for: ījāb",
+      "type": "short_answer",
+      "answer": "obligating",
+      "displayAnswer": "obligating",
+      "acceptedAnswers": [
+        "obligating",
+        "obligation"
+      ],
+      "explanation": "The course uses this English equivalent for ījāb.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.12. Provide an appropriate English equivalent for: nadb",
+      "type": "short_answer",
+      "answer": "recommending",
+      "displayAnswer": "recommending",
+      "acceptedAnswers": [
+        "recommending",
+        "recommendation"
+      ],
+      "explanation": "The course uses this English equivalent for nadb.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.13. Provide an appropriate English equivalent for: taḥrīm",
+      "type": "short_answer",
+      "answer": "forbidding",
+      "displayAnswer": "forbidding",
+      "acceptedAnswers": [
+        "forbidding",
+        "prohibition"
+      ],
+      "explanation": "The course uses this English equivalent for taḥrīm.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.14. Provide an appropriate English equivalent for: karāhah",
+      "type": "short_answer",
+      "answer": "disliking",
+      "displayAnswer": "disliking",
+      "acceptedAnswers": [
+        "disliking"
+      ],
+      "explanation": "The course uses this English equivalent for karāhah.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.15. Provide an appropriate English equivalent for: wājib",
+      "type": "short_answer",
+      "answer": "obligatory act",
+      "displayAnswer": "obligatory act",
+      "acceptedAnswers": [
+        "obligatory act",
+        "obligatory"
+      ],
+      "explanation": "The course uses this English equivalent for wājib.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.16. Provide an appropriate English equivalent for: mandūb",
+      "type": "short_answer",
+      "answer": "recommended act",
+      "displayAnswer": "recommended act",
+      "acceptedAnswers": [
+        "recommended act",
+        "recommended"
+      ],
+      "explanation": "The course uses this English equivalent for mandūb.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.17. Provide an appropriate English equivalent for: muḥarram",
+      "type": "short_answer",
+      "answer": "forbidden act",
+      "displayAnswer": "forbidden act",
+      "acceptedAnswers": [
+        "forbidden act",
+        "forbidden"
+      ],
+      "explanation": "The course uses this English equivalent for muḥarram.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.18. Provide an appropriate English equivalent for: makrūh",
+      "type": "short_answer",
+      "answer": "disliked act",
+      "displayAnswer": "disliked act",
+      "acceptedAnswers": [
+        "disliked act",
+        "disliked"
+      ],
+      "explanation": "The course uses this English equivalent for makrūh.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.19. Provide an appropriate English equivalent for: wājib (according to Ḥanafī jurists)",
+      "type": "short_answer",
+      "answer": "obligatory act established by a ẓannī indicator",
+      "displayAnswer": "obligatory act established by a ẓannī indicator",
+      "acceptedAnswers": [
+        "obligatory act established by a zanni indicator",
+        "obligatory act established by probabilistic evidence",
+        "wajib established by zanni evidence"
+      ],
+      "explanation": "The course uses this English equivalent for wājib (according to Ḥanafī jurists).",
+      "pages": "p. 53"
+    },
+    {
+      "q": "22.20. Provide an appropriate English equivalent for: farḍ (according to Ḥanafī jurists)",
+      "type": "short_answer",
+      "answer": "mandatory act established by a qaṭʿī indicator",
+      "displayAnswer": "mandatory act established by a qaṭʿī indicator",
+      "acceptedAnswers": [
+        "mandatory act established by a qati indicator",
+        "mandatory act established by non probabilistic evidence",
+        "fard established by qati evidence"
+      ],
+      "explanation": "The course uses this English equivalent for farḍ (according to Ḥanafī jurists).",
+      "pages": "p. 53"
+    },
+    {
+      "q": "22.21. Provide an appropriate English equivalent for: makrūh tanzīhī (according to Ḥanafī jurists)",
+      "type": "short_answer",
+      "answer": "disliked act not amounting to a forbidden act",
+      "displayAnswer": "disliked act not amounting to a forbidden act",
+      "acceptedAnswers": [
+        "disliked act not amounting to a forbidden act",
+        "non-prohibitive disliked act"
+      ],
+      "explanation": "The course uses this English equivalent for makrūh tanzīhī (according to Ḥanafī jurists).",
+      "pages": "p. 53"
+    },
+    {
+      "q": "22.22. Provide an appropriate English equivalent for: makrūh taḥrīmī (according to Ḥanafī jurists)",
+      "type": "short_answer",
+      "answer": "disliked act amounting to a forbidden act",
+      "displayAnswer": "disliked act amounting to a forbidden act",
+      "acceptedAnswers": [
+        "disliked act amounting to a forbidden act",
+        "prohibitive disliked act"
+      ],
+      "explanation": "The course uses this English equivalent for makrūh taḥrīmī (according to Ḥanafī jurists).",
+      "pages": "p. 53"
+    },
+    {
+      "q": "22.23. Provide an appropriate English equivalent for: muḥarram (according to Ḥanafī jurists)",
+      "type": "short_answer",
+      "answer": "forbidden act established by a qaṭʿī indicator",
+      "displayAnswer": "forbidden act established by a qaṭʿī indicator",
+      "acceptedAnswers": [
+        "forbidden act established by a qati indicator",
+        "forbidden act established by non probabilistic evidence"
+      ],
+      "explanation": "The course uses this English equivalent for muḥarram (according to Ḥanafī jurists).",
+      "pages": "p. 53"
+    },
+    {
+      "q": "22.24. Provide an appropriate English equivalent for: dalīl ẓannī",
+      "type": "short_answer",
+      "answer": "probabilistic indicator",
+      "displayAnswer": "probabilistic indicator",
+      "acceptedAnswers": [
+        "probabilistic indicator",
+        "probabilistic evidence"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl ẓannī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.25. Provide an appropriate English equivalent for: khabar āḥād",
+      "type": "short_answer",
+      "answer": "non-mutawātir report",
+      "displayAnswer": "non-mutawātir report",
+      "acceptedAnswers": [
+        "non mutawatir report",
+        "solitary report",
+        "report narrated by a small number of narrators"
+      ],
+      "explanation": "The course uses this English equivalent for khabar āḥād.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.26. Provide an appropriate English equivalent for: dalīl ẓannī al-thubūt",
+      "type": "short_answer",
+      "answer": "probabilistic in terms of narration",
+      "displayAnswer": "probabilistic in terms of narration",
+      "acceptedAnswers": [
+        "probabilistic in terms of narration",
+        "probabilistic as to transmission",
+        "probabilistic transmission"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl ẓannī al-thubūt.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.27. Provide an appropriate English equivalent for: dalīl ẓannī al-dalālah",
+      "type": "short_answer",
+      "answer": "probabilistic in terms of indication",
+      "displayAnswer": "probabilistic in terms of indication",
+      "acceptedAnswers": [
+        "probabilistic in terms of indication",
+        "probabilistic as to meaning",
+        "probabilistic indication"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl ẓannī al-dalālah.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.28. Provide an appropriate English equivalent for: dalīl ẓannī al-thubūt wa-l-dalālah",
+      "type": "short_answer",
+      "answer": "probabilistic in terms of both narration and indication",
+      "displayAnswer": "probabilistic in terms of both narration and indication",
+      "acceptedAnswers": [
+        "probabilistic in terms of both narration and indication",
+        "probabilistic as to transmission and meaning"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl ẓannī al-thubūt wa-l-dalālah.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.29. Provide an appropriate English equivalent for: dalīl qaṭʿī",
+      "type": "short_answer",
+      "answer": "non-probabilistic indicator",
+      "displayAnswer": "non-probabilistic indicator",
+      "acceptedAnswers": [
+        "non probabilistic indicator",
+        "non probabilistic evidence",
+        "definitive indicator"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl qaṭʿī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.30. Provide an appropriate English equivalent for: khabar mutawātir",
+      "type": "short_answer",
+      "answer": "mutawātir report",
+      "displayAnswer": "mutawātir report",
+      "acceptedAnswers": [
+        "mutawatir report",
+        "mass transmitted report",
+        "mass-narrated report"
+      ],
+      "explanation": "The course uses this English equivalent for khabar mutawātir.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.31. Provide an appropriate English equivalent for: dalīl qaṭʿī al-thubūt",
+      "type": "short_answer",
+      "answer": "non-probabilistic in terms of narration",
+      "displayAnswer": "non-probabilistic in terms of narration",
+      "acceptedAnswers": [
+        "non probabilistic in terms of narration",
+        "definitive as to transmission",
+        "certain transmission"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl qaṭʿī al-thubūt.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.32. Provide an appropriate English equivalent for: dalīl qaṭʿī al-dalālah",
+      "type": "short_answer",
+      "answer": "non-probabilistic in terms of indication",
+      "displayAnswer": "non-probabilistic in terms of indication",
+      "acceptedAnswers": [
+        "non probabilistic in terms of indication",
+        "definitive as to meaning",
+        "certain indication"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl qaṭʿī al-dalālah.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.33. Provide an appropriate English equivalent for: dalīl qaṭʿī al-thubūt wa-l-dalālah",
+      "type": "short_answer",
+      "answer": "non-probabilistic in terms of both narration and indication",
+      "displayAnswer": "non-probabilistic in terms of both narration and indication",
+      "acceptedAnswers": [
+        "non probabilistic in terms of both narration and indication",
+        "definitive as to transmission and meaning"
+      ],
+      "explanation": "The course uses this English equivalent for dalīl qaṭʿī al-thubūt wa-l-dalālah.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.34. Provide an appropriate English equivalent for: wājib muqayyad",
+      "type": "short_answer",
+      "answer": "time-restricted obligatory act",
+      "displayAnswer": "time-restricted obligatory act",
+      "acceptedAnswers": [
+        "time restricted obligatory act",
+        "time-bound obligatory act"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muqayyad.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.35. Provide an appropriate English equivalent for: wājib muʾaqqat",
+      "type": "short_answer",
+      "answer": "time-restricted obligatory act",
+      "displayAnswer": "time-restricted obligatory act",
+      "acceptedAnswers": [
+        "time restricted obligatory act",
+        "time-bound obligatory act"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muʾaqqat.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.36. Provide an appropriate English equivalent for: wājib muṭlaq",
+      "type": "short_answer",
+      "answer": "non-time-restricted obligatory act",
+      "displayAnswer": "non-time-restricted obligatory act",
+      "acceptedAnswers": [
+        "non time restricted obligatory act",
+        "unrestricted as to time obligatory act"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muṭlaq.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.37. Provide an appropriate English equivalent for: wājib muḍayyaq",
+      "type": "short_answer",
+      "answer": "narrow-window-of-opportunity obligatory act",
+      "displayAnswer": "narrow-window-of-opportunity obligatory act",
+      "acceptedAnswers": [
+        "narrow window of opportunity obligatory act",
+        "narrow time window obligatory act"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muḍayyaq.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.38. Provide an appropriate English equivalent for: wājib muwassaʿ",
+      "type": "short_answer",
+      "answer": "wide-window-of-opportunity obligatory act",
+      "displayAnswer": "wide-window-of-opportunity obligatory act",
+      "acceptedAnswers": [
+        "wide window of opportunity obligatory act",
+        "wide time window obligatory act"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muwassaʿ.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.39. Provide an appropriate English equivalent for: wājib ʿaynī",
+      "type": "short_answer",
+      "answer": "individual-level obligatory act",
+      "displayAnswer": "individual-level obligatory act",
+      "acceptedAnswers": [
+        "individual level obligatory act",
+        "individual obligation"
+      ],
+      "explanation": "The course uses this English equivalent for wājib ʿaynī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.40. Provide an appropriate English equivalent for: wājib kifāʾī",
+      "type": "short_answer",
+      "answer": "community-level obligatory act",
+      "displayAnswer": "community-level obligatory act",
+      "acceptedAnswers": [
+        "community level obligatory act",
+        "collective obligation",
+        "communal obligation"
+      ],
+      "explanation": "The course uses this English equivalent for wājib kifāʾī.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.41. Provide an appropriate English equivalent for: wājib muḥaddad",
+      "type": "short_answer",
+      "answer": "specified-amount obligatory act",
+      "displayAnswer": "specified-amount obligatory act",
+      "acceptedAnswers": [
+        "specified amount obligatory act",
+        "obligation with a specified amount"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muḥaddad.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.42. Provide an appropriate English equivalent for: wājib ghayr muḥaddad",
+      "type": "short_answer",
+      "answer": "non-specified-amount obligatory act",
+      "displayAnswer": "non-specified-amount obligatory act",
+      "acceptedAnswers": [
+        "non specified amount obligatory act",
+        "obligation without a specified amount"
+      ],
+      "explanation": "The course uses this English equivalent for wājib ghayr muḥaddad.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.43. Provide an appropriate English equivalent for: wājib muʿayyan",
+      "type": "short_answer",
+      "answer": "non-alternative-based obligatory act",
+      "displayAnswer": "non-alternative-based obligatory act",
+      "acceptedAnswers": [
+        "non alternative based obligatory act",
+        "obligation with no alternative"
+      ],
+      "explanation": "The course uses this English equivalent for wājib muʿayyan.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.44. Provide an appropriate English equivalent for: wājib mukhayyar",
+      "type": "short_answer",
+      "answer": "alternative-based obligatory act",
+      "displayAnswer": "alternative-based obligatory act",
+      "acceptedAnswers": [
+        "alternative based obligatory act",
+        "obligation with alternatives"
+      ],
+      "explanation": "The course uses this English equivalent for wājib mukhayyar.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.45. Provide an appropriate English equivalent for: wājib mubham",
+      "type": "short_answer",
+      "answer": "alternative-based / unspecified obligatory act",
+      "displayAnswer": "alternative-based / unspecified obligatory act",
+      "acceptedAnswers": [
+        "alternative based obligatory act",
+        "unspecified obligatory act",
+        "obligation with alternatives"
+      ],
+      "explanation": "The course uses this English equivalent for wājib mubham.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.46. Provide an appropriate English equivalent for: ibāḥah",
+      "type": "short_answer",
+      "answer": "giving choice / permissibility",
+      "displayAnswer": "giving choice / permissibility",
+      "acceptedAnswers": [
+        "giving choice",
+        "permissibility"
+      ],
+      "explanation": "The course uses this English equivalent for ibāḥah.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.47. Provide an appropriate English equivalent for: mubāḥ",
+      "type": "short_answer",
+      "answer": "permissible act",
+      "displayAnswer": "permissible act",
+      "acceptedAnswers": [
+        "permissible act",
+        "permissible"
+      ],
+      "explanation": "The course uses this English equivalent for mubāḥ.",
+      "pages": "pp. 49–58"
+    },
+    {
+      "q": "22.48. Provide an appropriate English equivalent for: maʿfū ʿanh",
+      "type": "short_answer",
+      "answer": "pardoned act",
+      "displayAnswer": "pardoned act",
+      "acceptedAnswers": [
+        "pardoned act",
+        "act that is pardoned"
+      ],
+      "explanation": "The course uses this English equivalent for maʿfū ʿanh.",
+      "pages": "pp. 49–58"
+    }
+  ]
+}

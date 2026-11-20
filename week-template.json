@@ -1,0 +1,21 @@
+{
+  "id": "week2",
+  "title": "Week 2 — Add your title",
+  "subtitle": "Topic · Topic · Topic",
+  "description": "A short description of this week's material.",
+  "source": "Textbook / lecture reference, pages xx–xx.",
+  "questions": [
+    {
+      "q": "Write your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answer": 0,
+      "explanation": "Explain why the answer is correct.",
+      "pages": "pp. xx–xx"
+    }
+  ]
+}
