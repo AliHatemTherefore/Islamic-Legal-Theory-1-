@@ -1,0 +1,321 @@
+{
+  "week": 2,
+  "title": "Week 2 — Indicators of Sacred Law: The Qurʾān",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "A researcher is evaluating a legal indicator. According to the course, which three questions are central?",
+      "options": [
+        "Who narrated it, when was it written, and who translated it?",
+        "Is it valid, is its indication probabilistic or non-probabilistic, and what major rules govern its use?",
+        "Is it Arabic, short, and widely known?",
+        "Does it concern worship, finance, or family law?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which set contains only indicators listed in the material as agreed upon by almost all jurists?",
+      "options": [
+        "Qurʾān, Sunnah, congruent implicature, ijmāʿ, qiyās",
+        "Custom, istiḥsān, istiṣḥāb, maṣlaḥah mursalah, qiyās",
+        "Companion opinion, custom, Qurʾān, istiḥsān, sadd al-dharāʾiʿ",
+        "Pre-Islamic law, counter-implicature, custom, Sunnah, istiṣḥāb"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The entire Qurʾān is described as qaṭʿī from the perspective of narration because it is transmitted by:",
+      "options": [
+        "Āḥād",
+        "Ijmāʿ",
+        "Tawātur",
+        "Qiyās"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "true_false",
+      "q": "Because the entire Qurʾān is qaṭʿī in transmission, every Qurʾānic verse must also be qaṭʿī in meaning.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Qurʾān 5:6 is discussed as an example of a phrase that may carry two meanings concerning “contact” with a woman. What does this illustrate?",
+      "options": [
+        "Ẓannī al-dalālah",
+        "Qaṭʿī al-thubūt and qaṭʿī al-dalālah in every respect",
+        "A non-mutawātir Qurʾānic text",
+        "Ijmāʿ ṣarīḥ"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The word “ten” in the instruction to feed ten poor people (Q. 5:89) is used as an example of:",
+      "options": [
+        "A meaning open to several interpretations",
+        "Non-probabilistic indication (qaṭʿī al-dalālah)",
+        "An āḥād report",
+        "A debatable indicator"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A command in the Qurʾān indicates obligation according to the predominant juristic view unless:",
+      "options": [
+        "A companion disagrees",
+        "There is contextual evidence to the contrary",
+        "It appears in a long verse",
+        "It concerns interactions"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "According to the predominant juristic view presented, a prohibition (nahy) indicates taḥrīm unless contextual evidence indicates otherwise.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A non-mutawātir reading attributed to a Companion is automatically considered part of the Qurʾān according to the material.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The material gives an example of Ibn Masʿūd’s reading adding the idea of fasting three days “consecutively.” Jurists debate whether such a reading can:",
+      "options": [
+        "Replace the entire Qurʾān",
+        "Serve as a valid indicator of sacred law rulings",
+        "Become mutawātir by itself",
+        "Count as ijmāʿ"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which description correctly distinguishes ẓannī al-thubūt from ẓannī al-dalālah?",
+      "options": [
+        "The first concerns transmission; the second concerns meaning/indication",
+        "The first concerns meaning; the second concerns the number of jurists",
+        "Both refer only to weak reports",
+        "Both mean that an indicator is invalid"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "short_answer",
+      "q": "What are the two widely used English equivalents for dalīl mentioned in the material?",
+      "acceptedAnswers": [
+        "source and indicator",
+        "indicator and source"
+      ],
+      "displayAnswer": "“Source” and “indicator.”"
+    },
+    {
+      "type": "short_answer",
+      "q": "Name the two major legal-reasoning rules about commands and prohibitions discussed in the Qurʾān section.",
+      "acceptedAnswers": [
+        "commands indicate obligation and prohibitions indicate forbidding unless contextual evidence indicates otherwise",
+        "amr indicates wujub and nahy indicates tahrim",
+        "amr means wujub; nahy means tahrim"
+      ],
+      "displayAnswer": "An order indicates obligation (wujūb), and a prohibition indicates forbidding (taḥrīm), unless contextual evidence indicates otherwise."
+    },
+    {
+      "type": "true_false",
+      "q": "The material states that the Qurʾān is a valid indicator of sacred law rulings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is listed among the synonyms of “dalīl” in the material?",
+      "options": [
+        "Basis of sacred law rulings",
+        "Custom of sacred law rulings",
+        "Narrator of sacred law rulings",
+        "Verifier of sacred law rulings"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which English equivalent of “dalīl” reflects traditional usage in books on uṣūl al-fiqh?",
+      "options": [
+        "Source",
+        "Both reflect only modern usage",
+        "Indicator",
+        "Neither is used in the field"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is listed as a debatable (not agreed upon) indicator?",
+      "options": [
+        "The Qurʾān",
+        "Unanimity (ijmāʿ)",
+        "Custom (ʿurf)",
+        "The Sunnah"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "short_answer",
+      "q": "How many debatable indicators of sacred law (al-adillah al-mukhtalaf fīhā) does the material list?",
+      "acceptedAnswers": [
+        "8",
+        "eight"
+      ],
+      "displayAnswer": "Eight."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is NOT one of the cases in which an indicator is probabilistic (ẓannī)?",
+      "options": [
+        "It is narrated via āḥād reports",
+        "It may convey more than one meaning",
+        "It is both narrated via āḥād reports and may convey more than one meaning",
+        "It is narrated by tawātur and conveys only one meaning"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Prophet’s statement that it is better to have a wash (ghusl) on Fridays (Sunan al-Tirmidhī) is used as an example of:",
+      "options": [
+        "Ẓannī al-dalālah",
+        "Ẓannī al-thubūt",
+        "Qaṭʿī al-thubūt",
+        "Qaṭʿī al-dalālah"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The report “There is no prayer when one does not recite al-Fātiḥah” (Ṣaḥīḥ al-Bukhārī) is an example of an indicator that is:",
+      "options": [
+        "Qaṭʿī in both narration and indication",
+        "Ẓannī in both narration and indication, since it is āḥād and “no prayer” may mean “no valid prayer” or “no complete prayer”",
+        "Qaṭʿī in narration only",
+        "Not an indicator at all"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, an indicator is qaṭʿī (non-probabilistic) if it is narrated by tawātur, or if it conveys only one meaning, or both.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The material says that how the Prophet performed prayers is transmitted by tawātur. It is therefore an example of an indicator that is:",
+      "options": [
+        "Qaṭʿī al-thubūt",
+        "Ẓannī al-thubūt",
+        "Ẓannī al-dalālah",
+        "Narrated only by a single narrator"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which description matches the Qurʾān as defined in the material?",
+      "options": [
+        "Human speech compiled by the Companions",
+        "God’s speech sent down to Prophet Muḥammad in Arabic, written in codices, recited as an act of worship, starting with al-Fātiḥah and ending with al-Nās, and transmitted by tawātur",
+        "Any report attributed to the Prophet",
+        "Any reading attributed to a Companion"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In the example of “contact” (Q. 4:43 / 5:6), how do jurists differ?",
+      "options": [
+        "All agree it means only sexual contact",
+        "Some understand it as mere skin-to-skin contact, while others construe it as sexual contact",
+        "All agree it refers to menstruation",
+        "They disagree about the number of persons addressed"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Q. 2:43 commands the believers to establish the prayer. Under the predominant juristic view, this means that prayer is:",
+      "options": [
+        "Recommended",
+        "Obligatory",
+        "Merely permissible",
+        "Disliked"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Q. 17:33 orders the believers not to kill others unlawfully. Under the predominant juristic view, this means that killing others is:",
+      "options": [
+        "Disliked",
+        "Permissible",
+        "Forbidden (taḥrīm)",
+        "Recommended to avoid only"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "short_answer",
+      "q": "What is the term used in the material for a non-mutawātir (āḥād) reading of the Qurʾān?",
+      "acceptedAnswers": [
+        "qirāʾah shādhdhah",
+        "qiraah shadhdhah",
+        "qiraa shadhdha",
+        "shādhdh reading",
+        "shadhdha reading",
+        "al-qirāʾah al-shādhdhah"
+      ],
+      "displayAnswer": "Al-qirāʾah al-shādhdhah (a non-mutawātir/āḥād reading)."
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, non-mutawātir (āḥād) readings by Companions may be considered part of the Qurʾān because Companions narrated them.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "How do opponents respond to the argument based on Ibn Masʿūd’s reading “three consecutive days”?",
+      "options": [
+        "They say Ibn Masʿūd was not a Companion",
+        "They say what he heard may have been an interpretation rather than a reading, it is not Prophetic Sunnah since he does not state he heard it from the Prophet, and it may be only a Companion’s personal opinion",
+        "They say the verse is qaṭʿī and cannot be interpreted",
+        "They say his reading is mutawātir but abrogated"
+      ],
+      "answer": 1
+    }
+  ]
+}

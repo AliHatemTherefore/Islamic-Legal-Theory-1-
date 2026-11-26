@@ -1,0 +1,322 @@
+{
+  "week": 4,
+  "title": "Week 4 — Indicators of Sacred Law: Consensus (Ijmāʿ)",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "Which definition of ijmāʿ matches the course material?",
+      "options": [
+        "Agreement of all Muslims in any period on a social practice",
+        "Agreement of Muslim mujtahid-specialists after the Prophet’s death, during an era, on a sacred law ruling",
+        "Agreement of one school’s students on a legal question",
+        "A ruling inferred by analogy from a Qurʾānic verse"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which example of ijmāʿ is specifically mentioned in the material?",
+      "options": [
+        "The Companions’ agreement during ʿUthmān’s era to compile the Qurʾān into one codex",
+        "The agreement of all people to pray at the same time",
+        "A single jurist’s opinion on fasting",
+        "A later scholar’s preference for one interpretation"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "true_false",
+      "q": "The material identifies ijmāʿ as a valid indicator of sacred law rulings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In general, the indication (dalālah) of ijmāʿ is described as:",
+      "options": [
+        "Ẓannī",
+        "Qaṭʿī",
+        "Always disputed",
+        "Invalid"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is listed as a possible basis (mustanad) of ijmāʿ?",
+      "options": [
+        "A text from the Qurʾān or Sunnah",
+        "A personal preference with no legal basis",
+        "A modern custom alone, regardless of validity",
+        "A disagreement among non-specialists"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Some scholars restrict the basis of ijmāʿ to non-probabilistic indicators. Which examples do they accept according to the material?",
+      "options": [
+        "Āḥād Sunnah and qiyās only",
+        "The Qurʾān and mutawātir Sunnah",
+        "Custom and istiḥsān only",
+        "Any opinion held by a majority"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Every mujtahid explicitly expresses agreement with a ruling, whether through fatwā or judgment. This is:",
+      "options": [
+        "Ijmāʿ ṣarīḥ",
+        "Ijmāʿ sukūtī",
+        "Ijmāʿ ḍimnī",
+        "Qiyās"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Some mujtahids state their position, while the remaining mujtahids know of it but remain silent without agreeing or disagreeing. This is:",
+      "options": [
+        "Ijmāʿ ṣarīḥ",
+        "Ijmāʿ sukūtī",
+        "Ijmāʿ ḍimnī",
+        "Tawātur"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "The material says that the validity of silent/tacit unanimity is undisputed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The mujtahids of an era express two or more different opinions, from which we infer that any opinion outside those positions is invalid. This is:",
+      "options": [
+        "Ijmāʿ ṣarīḥ",
+        "Ijmāʿ sukūtī",
+        "Ijmāʿ ḍimnī",
+        "Ittiṣāl al-sanad"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "true_false",
+      "q": "The material states that inferred unanimity (ijmāʿ ḍimnī) is debated as a valid indicator of sacred law rulings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which classification is correctly matched?",
+      "options": [
+        "Ṣarīḥ — some scholars speak and the rest remain silent",
+        "Sukūtī — every mujtahid explicitly states agreement",
+        "Ḍimnī — agreement is inferred from the range of opinions expressed",
+        "Ḍimnī — one scholar issues a fatwā without any response"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "short_answer",
+      "q": "What are the three types of ijmāʿ listed in the material?",
+      "acceptedAnswers": [
+        "sarih, sukuti, dimni",
+        "ṣarīḥ, sukūtī, ḍimnī",
+        "explicit, silent or tacit, and inferred"
+      ],
+      "displayAnswer": "Explicit (ṣarīḥ), silent/tacit (sukūtī), and inferred (ḍimnī)."
+    },
+    {
+      "type": "short_answer",
+      "q": "What is the Arabic technical term for the basis on which consensus rests?",
+      "acceptedAnswers": [
+        "mustanad al ijma",
+        "mustanad al-ijma",
+        "mustanad"
+      ],
+      "displayAnswer": "Mustanad al-ijmāʿ (مستند الإجماع)."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "According to the definition in the material, whose agreement constitutes ijmāʿ?",
+      "options": [
+        "Muslim mujtahid-specialists from the nation of Muḥammad ﷺ",
+        "All laypeople in a city",
+        "The students of a single fiqh school",
+        "Only the rulers of an era"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "true_false",
+      "q": "According to the definition in the material, ijmāʿ refers to agreement reached after the Prophet’s death.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is NOT listed as a basis of ijmāʿ in the material?",
+      "options": [
+        "A text from the Qurʾān or Sunnah",
+        "Analogy based on a text from the Qurʾān or Sunnah",
+        "Another valid sacred law indicator, such as presumption of legal continuity",
+        "The personal preference of the majority without any indicator"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which example does the material give of “other valid sacred law indicators” that may serve as a basis of ijmāʿ?",
+      "options": [
+        "Presumption of legal continuity (istiṣḥāb)",
+        "Pre-Islamic dreams",
+        "Folk stories",
+        "Personal travel experiences"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, some scholars do not accept probabilistic indicators, such as āḥād Sunnah and analogy, as a basis of ijmāʿ.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "What is the indication (dalālah) of explicit unanimity (ijmāʿ ṣarīḥ) according to the material?",
+      "options": [
+        "Ẓannī",
+        "Qaṭʿī",
+        "Always invalid",
+        "Always disputed"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, explicit unanimity (ijmāʿ ṣarīḥ) may serve as a valid indicator of sacred law rulings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Regarding silent unanimity (ijmāʿ sukūtī), the material states that:",
+      "options": [
+        "Everyone agrees it is a valid and qaṭʿī indicator",
+        "It is debatable whether it is valid, and those who accept it debate whether its indication is probabilistic or non-probabilistic",
+        "Everyone agrees it is invalid",
+        "It is always ẓannī"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In silent unanimity, the mujtahids who remain silent are described as having:",
+      "options": [
+        "Not known the opinion at all",
+        "Known the opinion but not expressed agreement or disagreement",
+        "Expressed their disagreement",
+        "Issued their own contrary fatwā"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The mujtahids of an era split into two opinions on a case. What does inferred unanimity (ijmāʿ ḍimnī) conclude from this?",
+      "options": [
+        "That the ruling is optional",
+        "That they agree on the invalidity of any opinion outside those two",
+        "That the case is abrogated",
+        "That the case has no ruling"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "short_answer",
+      "q": "In explicit unanimity (ijmāʿ ṣarīḥ), what two forms may each mujtahid’s stated opinion take?",
+      "acceptedAnswers": [
+        "fatwa and judgment",
+        "fatwā and judgment",
+        "fatwa and qada",
+        "fatwā and qaḍāʾ",
+        "religious opinion and judgment"
+      ],
+      "displayAnswer": "A fatwā (religious opinion) or a judgment (qaḍāʾ)."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which indicator is listed immediately after ijmāʿ among the five agreed-upon indicators?",
+      "options": [
+        "The Sunnah",
+        "Precedent-based analogy (qiyās)",
+        "Custom (ʿurf)",
+        "Juristic preference (istiḥsān)"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "short_answer",
+      "q": "What is the Arabic term for silent/tacit unanimity?",
+      "acceptedAnswers": [
+        "ijmāʿ sukūtī",
+        "ijma sukuti",
+        "ijmaʿ sukuti",
+        "sukūtī",
+        "sukuti"
+      ],
+      "displayAnswer": "Ijmāʿ sukūtī."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In the material’s example of ijmāʿ on compiling the Qurʾān into one codex (muṣḥaf), the Companions agreed during the era of which caliph?",
+      "options": [
+        "Abū Bakr",
+        "ʿUmar b. al-Khaṭṭāb",
+        "ʿUthmān b. ʿAffān",
+        "ʿAlī b. Abī Ṭālib"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, the validity of inferred unanimity (ijmāʿ ḍimnī) is undisputed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which type of unanimity is presented in the material as a valid indicator with a non-probabilistic (qaṭʿī) indication, without debate about its validity?",
+      "options": [
+        "Explicit unanimity (ijmāʿ ṣarīḥ)",
+        "Silent unanimity (ijmāʿ sukūtī)",
+        "Inferred unanimity (ijmāʿ ḍimnī)",
+        "None of them"
+      ],
+      "answer": 0
+    }
+  ]
+}

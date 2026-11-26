@@ -1,0 +1,326 @@
+{
+  "week": 1,
+  "title": "Week 1 — Basic Terminology and Concepts",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "A student says: “Uṣūl al-fiqh studies the individual rulings assigned to actions, such as prayer being obligatory.” Which correction best matches the course material?",
+      "options": [
+        "That is the subject matter of fiqh; uṣūl al-fiqh studies multiple-case indicators and the principles for deriving rulings.",
+        "That is the subject matter of uṣūl al-fiqh; fiqh studies only Arabic grammar.",
+        "Both sciences study only individual rulings.",
+        "Neither science studies rulings or indicators."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A verse says, “Establish the prayer.” In the course terminology, this is an example of:",
+      "options": [
+        "Dalīl ijmālī",
+        "Dalīl tafṣīlī",
+        "Ijmāʿ",
+        "Qiyās"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which statement best defines a dalīl according to the material?",
+      "options": [
+        "Anything that produces certainty only",
+        "That which, when properly reasoned, can lead to a sacred law ruling, whether probabilistic or non-probabilistic",
+        "A ruling that applies only to devotional acts",
+        "A scholar who follows another scholar"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "Knowledge of fiqh indicators means merely memorizing the names and definitions of the indicators.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A general rule states that a Qurʾānic or Prophetic command indicates obligation unless contextual evidence indicates otherwise. This is an example of:",
+      "options": [
+        "Knowledge of the conditions of a mujtahid",
+        "Knowledge of fiqh indicators",
+        "The definition of fiqh",
+        "The subject matter of devotional acts"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which pair is correctly matched?",
+      "options": [
+        "Fiqh — multiple-case indicators; Uṣūl al-fiqh — individual rulings",
+        "Fiqh — sacred law rulings related to actions; Uṣūl al-fiqh — multiple-case indicators and rules of deduction",
+        "Fiqh — only worship; Uṣūl al-fiqh — only financial contracts",
+        "Fiqh — Arabic language; Uṣūl al-fiqh — hadith criticism"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A specialist deduces sacred law rulings from specific-case indicators. What is this specialist called?",
+      "options": [
+        "Muqallid",
+        "ʿĀmmī",
+        "Mujtahid",
+        "Mufti only"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "true_false",
+      "q": "A faqīh is described as a specialist who knows sacred law rulings deduced from specific-case indicators.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In the context of fiqh, “jumhūr” means:",
+      "options": [
+        "Always the non-Ḥanafī jurists",
+        "The greater number of schools that hold an opinion on a particular fiqh case; the schools may vary from case to case",
+        "Only the Shāfiʿī school",
+        "All laypeople"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In the context of uṣūl al-fiqh, “jumhūr” is used in the material as a synonym for:",
+      "options": [
+        "Ḥanafiyyah",
+        "Non-Ḥanafī jurists / mutakallimūn / Shāfiʿiyyah in this technical context",
+        "Muqallidūn",
+        "ʿĀmmiyyah"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which activity belongs to fiqh’s theme of muʿāmalāt rather than ʿibādāt?",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "A sale contract",
+        "Pilgrimage"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "short_answer",
+      "q": "Name the two broad themes of fiqh identified in the material.",
+      "acceptedAnswers": [
+        "ʿibādāt and muʿāmalāt",
+        "ibadat and muamalat",
+        "devotions and interactions",
+        "devotional acts and interactions"
+      ],
+      "displayAnswer": "ʿIbādāt (devotions) and muʿāmalāt (interactions)."
+    },
+    {
+      "type": "short_answer",
+      "q": "What is the term for a non-specialist in sacred law?",
+      "acceptedAnswers": [
+        "ʿāmmī",
+        "ammi",
+        "layman"
+      ],
+      "displayAnswer": "ʿĀmmī (layman)."
+    },
+    {
+      "type": "true_false",
+      "q": "The material says that “Shāfiʿiyyah” has exactly the same scope in fiqh and uṣūl al-fiqh.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "According to the book’s alternative definition, uṣūl al-fiqh is:",
+      "options": [
+        "Knowledge of rules for deducing sacred law rulings from specific-case indicators",
+        "Knowledge of the individual rulings assigned to actions",
+        "Memorization of the entire Qurʾān",
+        "Knowledge of the biographies of the great jurists"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "true_false",
+      "q": "Based on the two definitions of uṣūl al-fiqh, the book concludes that “multiple-case indicators” and “rules” are synonymous.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is NOT one of the three components of the first definition of uṣūl al-fiqh?",
+      "options": [
+        "Knowledge of multiple-case indicators of sacred law rulings",
+        "Knowledge of how to utilize these indicators in deducing rulings from specific-case indicators",
+        "Knowledge of the conditions required in a mujtahid-specialist",
+        "Knowledge of the history of every fiqh school"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is an example of a dalīl ijmālī (multiple-case indicator)?",
+      "options": [
+        "The verse “Establish the prayer.”",
+        "The rule that an order to do an action indicates obligation unless there is contextual evidence to the contrary",
+        "A specific verse about the fast of Ramadan",
+        "A specific ruling on a sale contract"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In the course material, “sharʿ” refers to:",
+      "options": [
+        "Opinions of the jurists",
+        "Local custom",
+        "Rulings originated by God (Allah)",
+        "Rulings issued only by the Companions"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "short_answer",
+      "q": "What word does the material give as a synonym of “sharʿ”?",
+      "acceptedAnswers": [
+        "sharīʿah",
+        "shariah",
+        "sharia",
+        "shari'ah"
+      ],
+      "displayAnswer": "Sharīʿah."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "How does the material suggest translating “ḥukm sharʿī”?",
+      "options": [
+        "Custom-based ruling",
+        "Sacred law ruling",
+        "Scholarly opinion",
+        "Legal capacity"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A “mufti” (jurisconsult) is best described as:",
+      "options": [
+        "A specialist who follows a mujtahid",
+        "A non-specialist in sacred law",
+        "A specialist who deduces rulings from specific-case indicators and responds to laypeople’s questions on sacred law rulings",
+        "A specialist who only knows multiple-case indicators"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A “muqallid” (imitator/follower) is:",
+      "options": [
+        "One who follows a mujtahid who deduces rulings from specific-case indicators",
+        "A non-specialist in sacred law",
+        "One who deduces rulings from specific-case indicators",
+        "A scholar who compiles books on legal theory"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "An “uṣūlī” (legal theorist) is a specialist who knows:",
+      "options": [
+        "Multiple-case indicators, how to utilize them in deducing rulings, and the conditions required in a mujtahid",
+        "Only the individual rulings of devotional acts",
+        "Nothing beyond the names of the schools",
+        "Only the Arabic grammar of the Qurʾān"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which list contains only themes of devotions (ʿibādāt)?",
+      "options": [
+        "Prayer, fasting, contracts of sale",
+        "Personal hygiene and purity (ṭahārah), mandatory almsgiving (zakat), pilgrimage (ḥajj)",
+        "Marriage, prayer, zakat",
+        "Divorce, fasting, pilgrimage"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is a crime-related theme within muʿāmalāt according to the material?",
+      "options": [
+        "Inheritance",
+        "Retribution (qiṣāṣ)",
+        "Allegiance to the state head",
+        "Putting up collateral"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which of the following is NOT listed as a major theme of uṣūl al-fiqh?",
+      "options": [
+        "Abrogation (naskh) of sacred law indicators",
+        "Resolving seeming conflict of sacred law indicators",
+        "Ijtihād and iftāʾ",
+        "Contracts of sale and loans"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "short_answer",
+      "q": "In the technical context of uṣūl al-fiqh, what term is used for Ḥanafī jurists, in contrast to the mutakallimūn?",
+      "acceptedAnswers": [
+        "fuqahāʾ",
+        "fuqaha",
+        "fuqaha'",
+        "legists",
+        "the fuqahāʾ"
+      ],
+      "displayAnswer": "Fuqahāʾ (legists/jurists)."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Al-Risāla, listed among the classical works on uṣūl al-fiqh, was written by:",
+      "options": [
+        "Al-Jaṣṣāṣ",
+        "Al-Shāfiʿī",
+        "Al-Sarakhsī",
+        "Al-Shīrāzī"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "In the context of uṣūl al-fiqh, a “Shāfiʿī” jurist may be affiliated with the Mālikī, Ḥanbalī, or Ẓāhirī schools, since the term means non-Ḥanafī.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    }
+  ]
+}
