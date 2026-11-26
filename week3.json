@@ -1,0 +1,328 @@
+{
+  "id": "week3",
+  "title": "Week 3 — Indicators of Sacred Law: The Sunnah",
+  "subtitle": "Prophetic Sunnah · Authenticity · Mutawātir · Āḥād",
+  "description": "Study the Prophetic Sunnah as a legal source: its categories, roles relative to the Qurʾān, conditions of authenticity, and classifications by number of narrators.",
+  "source": "Islamic Legal Theory I course material.",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "q": "A report describes something the Prophet ﷺ said, did, or tacitly approved. Which source is being described?",
+      "options": [
+        "Ijmāʿ",
+        "Prophetic Sunnah",
+        "Qiyās",
+        "ʿUrf"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which set gives the three categories of Prophetic Sunnah in the material?",
+      "options": [
+        "Mutawātir, mashhūr, gharīb",
+        "Ṣaḥīḥ, ḥasan, ḍaʿīf",
+        "Words, actions, and tacit approvals",
+        "Qurʾān, Sunnah, and ijmāʿ"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Prophet ﷺ knew of an action performed by a Companion, did not disapprove of it, and remained silent. This is an example of:",
+      "options": [
+        "A verbal Sunnah",
+        "A tacit approval (taqrīr)",
+        "A qiyās",
+        "A mursal report"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Sunnah explains the Qurʾān by detailing how to perform ḥajj. Which role is this?",
+      "options": [
+        "Reinforcing the Qurʾān",
+        "Explaining an otherwise general or summarized command",
+        "Introducing a ruling unrelated to the Qurʾān",
+        "Abrogating the entire Qurʾān"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Sunnah limits the permissibility of bequeathing to heirs to one third of the estate in the example given. This is:",
+      "options": [
+        "Providing a constraint to an unconstrained matter",
+        "A tacit approval",
+        "A new Qurʾānic reading",
+        "Ijmāʿ sukūtī"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A report is narrated by one narrator in every stage of its chain. How is it classified by number of narrators in the material?",
+      "options": [
+        "Mashhūr",
+        "ʿAzīz",
+        "Gharīb",
+        "Mutawātir"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A report is narrated by two narrators in every stage of its chain. It is:",
+      "options": [
+        "Mashhūr",
+        "ʿAzīz",
+        "Gharīb",
+        "Ḍaʿīf"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A report has a connected chain of upright, exact narrators, with no anomaly or hidden defect. It is classified as:",
+      "options": [
+        "Ṣaḥīḥ",
+        "Ḥasan",
+        "Ḍaʿīf",
+        "Mursal"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which authenticity category describes a connected chain of upright narrators whose exactness is lower than that of ṣaḥīḥ narrators, without anomalies or hidden defects?",
+      "options": [
+        "Ṣaḥīḥ",
+        "Ḥasan",
+        "Ḍaʿīf",
+        "Gharīb"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A narrator must have heard the report from the immediate narrator before him, with no missing links. Which condition is this?",
+      "options": [
+        "ʿAdālat al-ruwāh",
+        "Ḍabṭ al-ruwāh",
+        "Ittiṣāl al-sanad",
+        "Al-khuluww min al-shudhūdh"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A trustworthy narrator’s version must not conflict with the version of a more trustworthy narrator. Which condition does this describe?",
+      "options": [
+        "Absence of anomalies (al-khuluww min al-shudhūdh)",
+        "Uprightness (ʿadālah)",
+        "Connectedness (ittiṣāl)",
+        "Absence of hidden defects (al-khuluww min al-ʿillah)"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, probability in the meaning/indication of a Sunnah text does not by itself remove the Sunnah’s status as a valid indicator.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which statement best reflects the material’s position on āḥād Sunnah?",
+      "options": [
+        "It is never a valid indicator",
+        "It is valid as an indicator when the report meets the conditions of authenticity",
+        "It is valid only when it is mutawātir",
+        "It is always qaṭʿī in transmission"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "short_answer",
+      "q": "Name the three categories of āḥād Sunnah according to number of narrators.",
+      "acceptedAnswers": [
+        "mashhur, aziz, gharib",
+        "mashhūr, ʿazīz, gharīb",
+        "gharib, aziz, mashhur"
+      ],
+      "displayAnswer": "Mashhūr, ʿazīz, and gharīb."
+    },
+    {
+      "type": "short_answer",
+      "q": "Name the five conditions of authenticity for āḥād Sunnah reports listed in the material.",
+      "acceptedAnswers": [
+        "connectedness of chain, uprightness of narrators, exactness of narrators, absence of anomalies, absence of hidden defects",
+        "ittisal al sanad, adalat al ruwah, dabt al ruwah, absence of shudhudh, absence of illa"
+      ],
+      "displayAnswer": "Connectedness of the chain; uprightness of narrators; exactness of narrators; absence of anomalies; and absence of hidden defects."
+    },
+    {
+      "type": "multiple_choice",
+      "q": "How does the material define “mutawātir Sunnah”?",
+      "options": [
+        "Reports narrated in the first three eras by multiple narrators in each stage whose collaboration to fabricate a lie is normally impossible",
+        "Reports narrated by a single narrator in every stage of the chain",
+        "Reports narrated by narrators with a lower level of exactness",
+        "Reports whose chain has a missing link"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which example does the material give of a Sunnah transmitted by tawātur?",
+      "options": [
+        "The report recommending ghusl on Fridays",
+        "How the Prophet ﷺ performed prayers",
+        "The report that a murderer does not inherit",
+        "The report forbidding envy"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "“Āḥād Sunnah” refers to reports that are:",
+      "options": [
+        "Narrated by a large number of narrators at every stage",
+        "Narrated by a small number of narrators in any stage of the chain, or by multiple narrators whose number does not reach the level of mutawātir",
+        "Only those narrated by the Companions",
+        "Only those with a weak chain"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Prophet’s statement that a murderer does not inherit from the one he murdered (Sunan Ibn Mājah) is given as an example of a Sunnah that is:",
+      "options": [
+        "Non-probabilistic (qaṭʿī) in terms of indication",
+        "Probabilistic in terms of indication",
+        "A tacit approval",
+        "A mursal report"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "“Mashhūr” reports are those narrated by:",
+      "options": [
+        "One narrator in every stage",
+        "Two narrators in every stage",
+        "Three or more narrators in every stage, as long as their number does not reach the level of mutawātir",
+        "A large number of narrators such that lying is impossible"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, if a Sunnah is not narrated by tawātur, it is still a valid source as long as the report meets the conditions of authenticity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Which example does the material give of a Prophetic action that is not Sunnah intended for all Muslims?",
+      "options": [
+        "Performing the five daily prayers",
+        "Marrying more than four wives, which is permissible for the Prophet ﷺ only",
+        "Fasting in Ramadan",
+        "Performing ḥajj"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "Most jurists, unlike Ḥanafī jurists, consider āḥād Prophetic Sunnah a valid indicator in penal law, such as acting on an āḥād report about a fixed punishment alongside the Qurʾānic verse.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "In the tacit-approval example, a Companion who had a wet dream used dry ablution (tayammum) due to the cold, then led others in prayer. The Prophet ﷺ laughed and said nothing. What does this tacit approval indicate?",
+      "options": [
+        "The action is forbidden",
+        "The action is permissible",
+        "The action is obligatory",
+        "The action is abrogated"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "Both the Qurʾān and the Sunnah oblige the fast of Ramadan. Which role of the Sunnah vis-à-vis the Qurʾān does this illustrate?",
+      "options": [
+        "Reinforcing what the Qurʾān says",
+        "Constraining an unconstrained matter",
+        "Introducing a new ruling not mentioned in the Qurʾān",
+        "Limiting a general rule"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Qurʾān forbids consuming dead animals, but the Sunnah excludes sea animals from this prohibition. This is an example of the Sunnah:",
+      "options": [
+        "Giving specific details of how a command is carried out",
+        "Providing limitations to a general rule with a wide scope",
+        "Reinforcing the Qurʾān",
+        "Introducing a new ruling"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "q": "The Sunnah makes it impermissible for a man to marry a woman and her aunt at the same time. Which role does this illustrate?",
+      "options": [
+        "Reinforcing the Qurʾān",
+        "Explaining the Qurʾān by giving details",
+        "Introducing a new ruling that the Qurʾān is silent about",
+        "Providing constraints to an unconstrained matter"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "q": "A “mursal al-ṣaḥābī” report is one in which:",
+      "options": [
+        "A Companion attributes a report to the Prophet ﷺ although he did not hear it directly from him, having heard it from another narrator whom he does not name",
+        "A non-Companion narrates a report with a missing link",
+        "A trustworthy narrator adds a phrase not found in other versions",
+        "A report is narrated by only one narrator in every stage"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "q": "“Ziyādat al-thiqa” refers to a report in which:",
+      "options": [
+        "A weak narrator contradicts a stronger narrator",
+        "One trustworthy narrator narrates, in his version, an addition that is not found in other versions of the same report",
+        "The chain of narrators is disconnected",
+        "The report is narrated by tawātur"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "true_false",
+      "q": "According to the material, “mursal ghayr al-ṣaḥābī” and “mursal” are synonyms.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    }
+  ]
+}

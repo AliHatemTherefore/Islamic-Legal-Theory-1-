@@ -1,6 +1,9 @@
 {
-  "week": 2,
+  "id": "week2",
   "title": "Week 2 — Indicators of Sacred Law: The Qurʾān",
+  "subtitle": "Sources · Dalīl · Qurʾān · Qaṭʿī vs Ẓannī",
+  "description": "Explore the indicators of sacred law, their classification, and the Qurʾān as a legal source including the concepts of certainty and probability in transmission and indication.",
+  "source": "Islamic Legal Theory I course material.",
   "questions": [
     {
       "type": "multiple_choice",

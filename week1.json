@@ -1,6 +1,9 @@
 {
-  "week": 1,
+  "id": "week1",
   "title": "Week 1 — Basic Terminology and Concepts",
+  "subtitle": "Terminology · Fiqh vs Uṣūl · Scholars · Indicators",
+  "description": "Master the foundational terminology of uṣūl al-fiqh: the definitions of fiqh, uṣūl, dalīl, and the roles of mujtahid, faqīh, mufti, muqallid, and ʿāmmī.",
+  "source": "Islamic Legal Theory I course material.",
   "questions": [
     {
       "type": "multiple_choice",
